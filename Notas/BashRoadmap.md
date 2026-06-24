@@ -55,6 +55,14 @@
  - rm
  - mkdir
  - touch
+
+
+ ```bash
+ls ../notas/
+
+ ```
+
+
   > ### Estado
   > - [ ] Me siento cómodo explicándolo
   > - [ ] Lo usé en un laboratorio
