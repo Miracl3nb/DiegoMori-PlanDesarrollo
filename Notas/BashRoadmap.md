@@ -56,23 +56,22 @@
  - touch
 ---
        cp
-       : asdasdads
-	   
+       : cp se utiliza para copiar archivos o directorios de una ubicación a otra sin modificar ni eliminar el archivo original.	   
 ---
        mv
-       : asdasdo
+       : mv se utiliza para mover archivos o directorios de una ubicación a otra.
 	   
 ---
        rm
-       : pasdasd
+       : rm se utiliza para eliminar archivos o directorios de forma permanente desde la terminal.
 	   
 ---
        mkdir
-       : pwd muestra el directorio en el cual esta posicionado
+       : mkdir se utiliza para crear uno o varios directorios en la ubicación indicada.
 	   
 ---
        touch   
-       : pwd muestra el directorio en el cual esta posicionado 
+       : touch se utiliza para crear uno o varios archivos vacíos.
 	   
 
  ```bash
@@ -94,20 +93,20 @@ ls ../notas/
  - head
  - tail
 ---
-       cp
-       : asdasdads
+       cat
+       : cat se utiliza para mostrar el contenido de uno o varios archivos.
 	   
 ---
 	   less
-       : asdasdads
+       : less se utiliza para visualizar el contenido de un archivo página por pagina, permitiendo desplazarse.
 	   
 ---
 	   head
-       : asdasdads
+       : head se utiliza para mostrar las primeras lineas de un archivo. Por defecto, muestra las primeras 10.
 	   
 ---
 	   tail 
-       : asdasdads
+       : tail se utiliza para mostrar las ultimas lineas de un archivo. Por defecto, muestra las ultimas 10.
 	   
 ---
   > ### Estado
@@ -122,7 +121,19 @@ ls ../notas/
  - locate
  - which
 
-
+---
+       grep
+       : grep se utiliza para buscar palabras dentro de uno o varios archivos, mostrando las lineas que contienen la coincidencia.
+---
+       find
+       : find se utiliza para buscar archivos o directorios dentro de una ubicación, utilizando criterios como el nombre, el tipo o el tamaño.
+---
+       locate
+       : locate se utiliza para buscar archivos o directorios por su nombre.
+---
+       which
+       : which se utiliza para mostrar la ruta donde se encuentra un comando o programa ejecutable disponible en el sistema.
+---
   > ### Estado
   > - [ ] Me siento cómodo explicándolo
   > - [ ] Lo usé en un laboratorio
@@ -137,6 +148,25 @@ ls ../notas/
 - sed
 - awk
 
+---
+       cut
+       : se utiliza para extraer columnas o caracteres específicos de un archivo.
+---
+       sort
+       : sort se utiliza para ordenar lineas de texto de forma alfabética o numerica.
+---
+       uniq
+       : uniq se utiliza para eliminar lineas duplicadas de un archivo o texto.
+---
+       tr
+       : tr se utiliza para reemplazar, eliminar o transformar caracteres de un texto.
+---
+       sed
+       : sed se utiliza para buscar, reemplazar o modificar texto de forma automatica.
+---
+       awk
+       : awk se utiliza para procesar, analizar y extraer información de archivos o textos organizados en columnas.
+---
   > ### Estado
   > - [ ] Me siento cómodo explicándolo
   > - [ ] Lo usé en un laboratorio
