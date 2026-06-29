@@ -179,6 +179,23 @@ ls ../notas/
 - "<"
 - "2>"
 - Pipes
+ 
+---
+       >
+       : asdasd.
+---
+       >>
+       : asdasd.
+---
+       <
+       : asdasda.
+---
+       2>
+       : asdasd.
+---
+       Pipes
+       : aasdads.
+---
 
   > ### Estado
   > - [ ] Me siento cómodo explicándolo
