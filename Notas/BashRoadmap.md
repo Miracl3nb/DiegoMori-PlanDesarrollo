@@ -150,10 +150,10 @@ ls ../notas/
 
 ---
        cut
-       : se utiliza para extraer columnas o caracteres específicos de un archivo.
+       : se utiliza para extraer columnas o caracteres especificos de un archivo.
 ---
        sort
-       : sort se utiliza para ordenar lineas de texto de forma alfabética o numerica.
+       : sort se utiliza para ordenar lineas de texto de forma alfabetica o numerica.
 ---
        uniq
        : uniq se utiliza para eliminar lineas duplicadas de un archivo o texto.
@@ -194,7 +194,28 @@ ls ../notas/
  - jobs
  - bg
  - fg
-
+---
+       ps
+       : ps se utiliza para mostrar información sobre los procesos que se están ejecutando en el sistema.
+---
+       top
+       : top se utiliza para monitorear los procesos del sistema, el uso de CPU, memoria, etc.
+---
+       htop
+       : aaaaa
+---
+       kill
+       : kill se utiliza detener la ejecución de un proceso.
+---
+       jobs
+       : jobs se utiliza para mostrar los procesos que se estan ejecutando en segundo plano o que fueron suspendidos.
+---
+       bg
+       : bg se utiliza para reanudar un proceso suspendido y continuar su ejecución en segundo plano.
+---
+       fg
+       : fg se utiliza para traer un proceso del segundo plano al primer plano.
+---
   > ### Estado
   > - [ ] Me siento cómodo explicándolo
   > - [ ] Lo usé en un laboratorio
