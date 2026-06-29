@@ -11,7 +11,6 @@
 	      :es la terminal que se utiliza para interactuar directamente con el s.o de forma eficiente y lo mas directa posible existen motores de terminal como bash y sh
 
  ---
- 
         variables
         :        
 
@@ -55,7 +54,26 @@
  - rm
  - mkdir
  - touch
-
+---
+       cp
+       : asdasdads
+	   
+---
+       mv
+       : asdasdo
+	   
+---
+       rm
+       : pasdasd
+	   
+---
+       mkdir
+       : pwd muestra el directorio en el cual esta posicionado
+	   
+---
+       touch   
+       : pwd muestra el directorio en el cual esta posicionado 
+	   
 
  ```bash
 ls ../notas/
@@ -75,6 +93,23 @@ ls ../notas/
  - less
  - head
  - tail
+---
+       cp
+       : asdasdads
+	   
+---
+	   less
+       : asdasdads
+	   
+---
+	   head
+       : asdasdads
+	   
+---
+	   tail 
+       : asdasdads
+	   
+---
   > ### Estado
   > - [ ] Me siento cómodo explicándolo
   > - [ ] Lo usé en un laboratorio
